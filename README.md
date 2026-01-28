@@ -60,8 +60,8 @@ Ikuti langkah berikut untuk menjalankan sistem di komputer lokal Anda:
 ### Installation
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-kamu/financial-fraud-detection.git](https://github.com/username-kamu/financial-fraud-detection.git)
-    cd financial-fraud-detection
+    git clone https://github.com/AtharAkhsan/fraud-detection.git
+    cd fraud-detection
     ```
 
 2.  **Install Dependencies**
