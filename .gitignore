@@ -1,5 +1,18 @@
-/ingest_data.py
-/model_fraud.pkl
-/processed_fraud_data.csv
-/PS_20174392719_1491204439457_log.csv
-/scaler_fraud.pkl
+# Data files (too large for git)
+PS_20174392719_1491204439457_log.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

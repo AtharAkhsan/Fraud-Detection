@@ -1,0 +1,42 @@
+{
+  "accuracy": 0.9953,
+  "f1_score": 0.9835,
+  "precision": 0.9704,
+  "recall": 0.997,
+  "roc_auc": 0.9993,
+  "cv_f1_mean": 0.9812,
+  "cv_f1_std": 0.0033,
+  "confusion_matrix": {
+    "true_negative": 9950,
+    "false_positive": 50,
+    "false_negative": 5,
+    "true_positive": 1638
+  },
+  "model_config": {
+    "hidden_layers": [
+      128,
+      64,
+      32
+    ],
+    "activation": "relu",
+    "max_iter": 500,
+    "smote": true,
+    "features": [
+      "step",
+      "amount",
+      "old_balance_orig",
+      "new_balance_orig",
+      "old_balance_dest",
+      "new_balance_dest",
+      "error_bal_orig",
+      "error_bal_dest",
+      "amount_bal_ratio",
+      "is_orig_zeroed",
+      "is_dest_empty_start",
+      "trans_type_CASH_OUT",
+      "trans_type_DEBIT",
+      "trans_type_PAYMENT",
+      "trans_type_TRANSFER"
+    ]
+  }
+}
