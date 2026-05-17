@@ -5,8 +5,11 @@
 ![SQL](https://img.shields.io/badge/Database-MySQL-4479A1)
 ![Machine Learning](https://img.shields.io/badge/Model-Backpropagation%20NN-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fraud-detection-athar.streamlit.app/)
 
 > **"Simulating the future of Forensic Technology: Detecting high-risk financial anomalies using Neural Networks and Real-time Auditing Dashboards."**
+
+👉 **Live Demo:** [https://fraud-detection-athar.streamlit.app/](https://fraud-detection-athar.streamlit.app/)
 
 ---
 
